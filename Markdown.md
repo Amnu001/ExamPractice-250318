@@ -1,0 +1,15 @@
+# Creating a bootable USB for Windows 10
+
+## Requirements
+A USB drive (8GB+)
+Windows 10 ISO
+Rufus software
+
+## Steps
+Download windows 10 ISO from the [Microsoft Website](https://www.microsoft.com/software-download/windows10)
+Download and Install rufus from [rufus.ie](https://rufus.ie/.)
+Insert the USB drive and open Rufus.
+Select your USB drive in the Device list.
+Use the Select button to choose the download ISO.
+Choose the appropriate Partition Scheme based on your system.
+Click Start and wait for the process to complete.
